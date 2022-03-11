@@ -1,7 +1,9 @@
 # First-Project
-final project of ITP   
+## final project of ITP   
 This is the source code of my first project in which Minesweeper is implemented.  
-to go upward press: w  
-to go downward press: s  
-to go rightward press: d  
-to go leftward press: a  
+After running the program:  
+press 'w' to go upward  
+press 's' to go downward  
+press 'd' to go rightward  
+press 'a' to go leftward   
+select using space bar
